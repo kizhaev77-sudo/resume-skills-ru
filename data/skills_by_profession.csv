@@ -1,0 +1,1617 @@
+profession_slug,profession_genitive,skill
+administratora,администратора,YCLIENTS
+administratora,администратора,DIKIDI
+administratora,администратора,1С: Медицина
+administratora,администратора,Bnovo
+administratora,администратора,TravelLine
+administratora,администратора,Bitrix24
+administratora,администратора,"Касса, 54-ФЗ"
+administratora,администратора,Работа с терминалом оплаты
+administratora,администратора,Инкассация
+administratora,администратора,Запись клиентов
+administratora,администратора,Ведение расписания специалистов
+administratora,администратора,Продажа услуг и абонементов
+administratora,администратора,Работа с возражениями
+administratora,администратора,Работа с отзывами
+administratora,администратора,Телефонные переговоры
+administratora,администратора,Заказ расходных материалов
+administratora,администратора,Excel
+administratora,администратора,Английский язык (для отелей)
+analitika,аналитика,SQL
+analitika,аналитика,"Python (pandas, NumPy)"
+analitika,аналитика,Power BI
+analitika,аналитика,Tableau
+analitika,аналитика,DataLens
+analitika,аналитика,"Excel (Power Query, сводные таблицы)"
+analitika,аналитика,ClickHouse
+analitika,аналитика,PostgreSQL
+analitika,аналитика,A/B-тесты
+analitika,аналитика,Математическая статистика
+analitika,аналитика,Яндекс Метрика
+analitika,аналитика,BPMN 2.0
+analitika,аналитика,UML
+analitika,аналитика,Сбор и анализ требований
+analitika,аналитика,REST API
+analitika,аналитика,Jira
+analitika,аналитика,Confluence
+analitika,аналитика,Git
+arhitektora,архитектора,Revit
+arhitektora,архитектора,ArchiCAD
+arhitektora,архитектора,AutoCAD
+arhitektora,архитектора,Renga
+arhitektora,архитектора,Navisworks
+arhitektora,архитектора,SketchUp
+arhitektora,архитектора,Rhino
+arhitektora,архитектора,3ds Max
+arhitektora,архитектора,Corona / V-Ray
+arhitektora,архитектора,Twinmotion / Lumion
+arhitektora,архитектора,Adobe Photoshop
+arhitektora,архитектора,Раздел АР
+arhitektora,архитектора,Стадии П и Р
+arhitektora,архитектора,Эскизный проект
+arhitektora,архитектора,BIM-моделирование
+arhitektora,архитектора,СПДС
+arhitektora,архитектора,Прохождение экспертизы
+arhitektora,архитектора,Авторский надзор
+arhitektora,архитектора,НРС НОПРИЗ
+avtomehanika,автомеханика,Ремонт ДВС
+avtomehanika,автомеханика,Ремонт ходовой части
+avtomehanika,автомеханика,Тормозная система
+avtomehanika,автомеханика,Ремонт МКПП
+avtomehanika,автомеханика,Обслуживание АКПП
+avtomehanika,автомеханика,Замена ГРМ
+avtomehanika,автомеханика,Компьютерная диагностика
+avtomehanika,автомеханика,Автоэлектрика
+avtomehanika,автомеханика,Развал-схождение
+avtomehanika,автомеханика,Шиномонтаж
+avtomehanika,автомеханика,ТО автомобилей
+avtomehanika,автомеханика,Кондиционеры автомобиля
+avtomehanika,автомеханика,Дизельные двигатели
+avtomehanika,автомеханика,Слесарный ремонт
+avtomehanika,автомеханика,1С: Альфа-Авто
+avtomehanika,автомеханика,Чтение электрических схем
+avtomehanika,автомеханика,Водительское удостоверение категории B
+barista,бариста,Приготовление эспрессо-напитков
+barista,бариста,Латте-арт
+barista,бариста,Альтернативные способы заваривания
+barista,бариста,"V60, кемекс, аэропресс"
+barista,бариста,Батч-брю
+barista,бариста,Настройка помола
+barista,бариста,La Marzocco
+barista,бариста,Nuova Simonelli
+barista,бариста,Victoria Arduino
+barista,бариста,Уход за кофейным оборудованием
+barista,бариста,iiko
+barista,бариста,R-Keeper
+barista,бариста,Работа с кассой
+barista,бариста,Приёмка товара
+barista,бариста,Инвентаризация
+barista,бариста,Стандарты обслуживания
+barista,бариста,Медицинская книжка
+barmena,бармена,Классические коктейли IBA
+barmena,бармена,Авторские коктейли
+barmena,бармена,"Барная техника (шейк, стир, билд)"
+barmena,бармена,Эспрессо-напитки
+barmena,бармена,Знание вин и крепкого алкоголя
+barmena,бармена,Пиво и разлив
+barmena,бармена,Расчёт себестоимости коктейлей
+barmena,бармена,Заготовки и сиропы
+barmena,бармена,Инвентаризация бара
+barmena,бармена,ЕГАИС
+barmena,бармена,iiko
+barmena,бармена,R-Keeper
+barmena,бармена,Кассовая дисциплина
+barmena,бармена,Санитарные нормы
+barmena,бармена,Медицинская книжка
+barmena,бармена,Работа с поставщиками
+buhgaltera,бухгалтера,1С: Бухгалтерия 8.3
+buhgaltera,бухгалтера,1С: ЗУП
+buhgaltera,бухгалтера,1С: УТ
+buhgaltera,бухгалтера,НДС
+buhgaltera,бухгалтера,Расчёт заработной платы
+buhgaltera,бухгалтера,Кадровый учёт
+buhgaltera,бухгалтера,Первичная документация
+buhgaltera,бухгалтера,Сверка с контрагентами
+buhgaltera,бухгалтера,Банк-клиент
+buhgaltera,бухгалтера,"ЭДО (Диадок, СБИС, Контур)"
+buhgaltera,бухгалтера,Отчётность в ФНС и СФР
+buhgaltera,бухгалтера,"6-НДФЛ, РСВ"
+buhgaltera,бухгалтера,Закрытие месяца
+buhgaltera,бухгалтера,Основные средства
+buhgaltera,бухгалтера,Авансовые отчёты
+buhgaltera,бухгалтера,МСФО
+buhgaltera,бухгалтера,"Excel (ВПР, сводные таблицы)"
+devops-inzhenera,DevOps-инженера,"Linux (Ubuntu, CentOS)"
+devops-inzhenera,DevOps-инженера,Bash
+devops-inzhenera,DevOps-инженера,Python
+devops-inzhenera,DevOps-инженера,Docker
+devops-inzhenera,DevOps-инженера,Kubernetes
+devops-inzhenera,DevOps-инженера,Helm
+devops-inzhenera,DevOps-инженера,Terraform
+devops-inzhenera,DevOps-инженера,Ansible
+devops-inzhenera,DevOps-инженера,GitLab CI
+devops-inzhenera,DevOps-инженера,Jenkins
+devops-inzhenera,DevOps-инженера,Argo CD
+devops-inzhenera,DevOps-инженера,Prometheus
+devops-inzhenera,DevOps-инженера,Grafana
+devops-inzhenera,DevOps-инженера,ELK
+devops-inzhenera,DevOps-инженера,Nginx
+devops-inzhenera,DevOps-инженера,PostgreSQL (администрирование)
+devops-inzhenera,DevOps-инженера,Yandex Cloud
+devops-inzhenera,DevOps-инженера,AWS
+devops-inzhenera,DevOps-инженера,HashiCorp Vault
+devops-inzhenera,DevOps-инженера,Git
+direktora-magazina,директора магазина,Управление персоналом
+direktora-magazina,директора магазина,Товарооборот
+direktora-magazina,директора магазина,P&L магазина
+direktora-magazina,директора магазина,Управление потерями
+direktora-magazina,директора магазина,Инвентаризация
+direktora-magazina,директора магазина,1С: Розница
+direktora-magazina,директора магазина,1С: УТ
+direktora-magazina,директора магазина,ЕГАИС
+direktora-magazina,директора магазина,Маркировка «Честный знак»
+direktora-magazina,директора магазина,Мерчандайзинг
+direktora-magazina,директора магазина,Планограммы
+direktora-magazina,директора магазина,Подбор персонала
+direktora-magazina,директора магазина,Обучение и адаптация персонала
+direktora-magazina,директора магазина,Составление графиков работы
+direktora-magazina,директора магазина,KPI
+direktora-magazina,директора магазина,Открытие магазинов
+direktora-magazina,директора магазина,Работа с ККТ
+direktora-magazina,директора магазина,Excel
+dispetchera,диспетчера,Диспетчеризация автотранспорта
+dispetchera,диспетчера,"Мониторинг транспорта (Wialon, ГЛОНАСС/GPS)"
+dispetchera,диспетчера,1С: Управление автотранспортом
+dispetchera,диспетчера,Оформление путевых листов
+dispetchera,диспетчера,Биржа грузов АТИ
+dispetchera,диспетчера,Планирование и оптимизация маршрутов
+dispetchera,диспетчера,Контроль расхода топлива
+dispetchera,диспетчера,Приём и распределение заявок
+dispetchera,диспетчера,Работа в CRM
+dispetchera,диспетчера,Ведение журналов и диспетчерской документации
+dispetchera,диспетчера,Работа с водителями и экспедиторами
+dispetchera,диспетчера,Работа с входящими звонками
+dispetchera,диспетчера,Excel (сводные таблицы)
+dispetchera,диспетчера,Работа с аварийными заявками
+dispetchera,диспетчера,Мини-АТС и IP-телефония
+dizaynera,дизайнера,Figma
+dizaynera,дизайнера,Adobe Photoshop
+dizaynera,дизайнера,Adobe Illustrator
+dizaynera,дизайнера,Adobe InDesign
+dizaynera,дизайнера,Прототипирование
+dizaynera,дизайнера,UX-исследования
+dizaynera,дизайнера,Юзабилити-тестирование
+dizaynera,дизайнера,Дизайн-системы
+dizaynera,дизайнера,Адаптивный дизайн
+dizaynera,дизайнера,Фирменный стиль
+dizaynera,дизайнера,Типографика
+dizaynera,дизайнера,Допечатная подготовка
+dizaynera,дизайнера,Tilda
+dizaynera,дизайнера,ArchiCAD
+dizaynera,дизайнера,AutoCAD
+dizaynera,дизайнера,3ds Max
+dizaynera,дизайнера,Corona Renderer
+dizaynera,дизайнера,SketchUp
+ekonomista,экономиста,"Бюджетирование (БДР, БДДС)"
+ekonomista,экономиста,План-факт анализ
+ekonomista,экономиста,Расчёт себестоимости
+ekonomista,экономиста,Калькуляция
+ekonomista,экономиста,Финансовый анализ
+ekonomista,экономиста,Управленческий учёт
+ekonomista,экономиста,Финансовое моделирование
+ekonomista,экономиста,Ценообразование
+ekonomista,экономиста,"Инвестиционный анализ (NPV, IRR)"
+ekonomista,экономиста,"Excel (сводные таблицы, Power Query, ВПР)"
+ekonomista,экономиста,Power BI
+ekonomista,экономиста,1С: ERP
+ekonomista,экономиста,1С: УПП
+ekonomista,экономиста,1С: УТ
+ekonomista,экономиста,Анализ затрат
+ekonomista,экономиста,Планирование продаж
+ekonomista,экономиста,Экономическое обоснование
+elektrika,электрика,"Группа по электробезопасности (III, IV, V)"
+elektrika,электрика,Электроустановки до 1000 В
+elektrika,электрика,Электроустановки выше 1000 В
+elektrika,электрика,Чтение электрических схем
+elektrika,электрика,Электромонтажные работы
+elektrika,электрика,Сборка электрощитов
+elektrika,электрика,Электродвигатели
+elektrika,электрика,Частотные преобразователи
+elektrika,электрика,Релейная защита и автоматика
+elektrika,электрика,Трансформаторные подстанции
+elektrika,электрика,Кабельные линии
+elektrika,электрика,Мегаомметр
+elektrika,электрика,ПУЭ
+elektrika,электрика,ПТЭЭП
+elektrika,электрика,Работа по нарядам-допускам
+elektrika,электрика,Допуск к работам на высоте
+elektrika,электрика,ППР
+farmacevta,фармацевта,Фармацевтическое консультирование
+farmacevta,фармацевта,Отпуск лекарственных препаратов
+farmacevta,фармацевта,Отпуск по рецептам
+farmacevta,фармацевта,Рецептурные бланки
+farmacevta,фармацевта,Маркировка лекарств (МДЛП)
+farmacevta,фармацевта,Приёмка товара
+farmacevta,фармацевта,Контроль сроков годности
+farmacevta,фармацевта,Условия хранения лекарственных препаратов
+farmacevta,фармацевта,Хранение термолабильных препаратов
+farmacevta,фармацевта,Фармакология
+farmacevta,фармацевта,Медицинские изделия
+farmacevta,фармацевта,Инвентаризация
+farmacevta,фармацевта,1С: Розница
+farmacevta,фармацевта,Работа с кассой
+farmacevta,фармацевта,Выполнение плана продаж
+farmacevta,фармацевта,Мерчандайзинг в аптеке
+farmacevta,фармацевта,Аккредитация специалиста
+finansovogo-analitika,финансового аналитика,Бюджетирование
+finansovogo-analitika,финансового аналитика,"БДР, БДДС"
+finansovogo-analitika,финансового аналитика,План-факт анализ
+finansovogo-analitika,финансового аналитика,Финансовое моделирование
+finansovogo-analitika,финансового аналитика,Управленческая отчётность
+finansovogo-analitika,финансового аналитика,"Excel (ВПР, сводные таблицы, Power Query)"
+finansovogo-analitika,финансового аналитика,Power BI
+finansovogo-analitika,финансового аналитика,1С: ERP
+finansovogo-analitika,финансового аналитика,1С: Управление холдингом
+finansovogo-analitika,финансового аналитика,РСБУ
+finansovogo-analitika,финансового аналитика,МСФО
+finansovogo-analitika,финансового аналитика,Анализ финансовой отчётности
+finansovogo-analitika,финансового аналитика,"NPV, IRR, DCF"
+finansovogo-analitika,финансового аналитика,Анализ себестоимости
+finansovogo-analitika,финансового аналитика,Unit-экономика
+finansovogo-analitika,финансового аналитика,SQL
+finansovogo-analitika,финансового аналитика,Платёжный календарь
+finansovogo-analitika,финансового аналитика,Прогнозирование денежных потоков
+fitnes-trenera,фитнес-тренера,Персональные тренировки
+fitnes-trenera,фитнес-тренера,Составление тренировочных программ
+fitnes-trenera,фитнес-тренера,Функциональный тренинг
+fitnes-trenera,фитнес-тренера,Силовой тренинг
+fitnes-trenera,фитнес-тренера,Тренажёрный зал
+fitnes-trenera,фитнес-тренера,Групповые программы
+fitnes-trenera,фитнес-тренера,TRX
+fitnes-trenera,фитнес-тренера,Кроссфит
+fitnes-trenera,фитнес-тренера,Стретчинг
+fitnes-trenera,фитнес-тренера,ОФП
+fitnes-trenera,фитнес-тренера,Работа с весом и составом тела
+fitnes-trenera,фитнес-тренера,Биомеханика упражнений
+fitnes-trenera,фитнес-тренера,Основы питания
+fitnes-trenera,фитнес-тренера,Первая помощь
+fitnes-trenera,фитнес-тренера,Вводный инструктаж
+fitnes-trenera,фитнес-тренера,Продажа персональных тренировок
+fitnes-trenera,фитнес-тренера,1С: Фитнес клуб
+fotografa,фотографа,Предметная съёмка
+fotografa,фотографа,Съёмка для маркетплейсов
+fotografa,фотографа,Fashion-съёмка
+fotografa,фотографа,Портретная съёмка
+fotografa,фотографа,Репортажная съёмка
+fotografa,фотографа,Интерьерная съёмка
+fotografa,фотографа,Студийный свет
+fotografa,фотографа,Импульсный свет
+fotografa,фотографа,Adobe Lightroom
+fotografa,фотографа,Adobe Photoshop
+fotografa,фотографа,Capture One
+fotografa,фотографа,Ретушь
+fotografa,фотографа,Цветокоррекция
+fotografa,фотографа,Пакетная обработка
+fotografa,фотографа,Съёмка видео для карточек товара
+fotografa,фотографа,Работа с моделями
+frontend-razrabotchika,frontend-разработчика,JavaScript (ES6+)
+frontend-razrabotchika,frontend-разработчика,TypeScript
+frontend-razrabotchika,frontend-разработчика,React
+frontend-razrabotchika,frontend-разработчика,Next.js
+frontend-razrabotchika,frontend-разработчика,Vue.js
+frontend-razrabotchika,frontend-разработчика,Redux Toolkit
+frontend-razrabotchika,frontend-разработчика,Zustand
+frontend-razrabotchika,frontend-разработчика,"HTML5, CSS3"
+frontend-razrabotchika,frontend-разработчика,"SCSS, CSS Modules"
+frontend-razrabotchika,frontend-разработчика,Tailwind CSS
+frontend-razrabotchika,frontend-разработчика,REST API
+frontend-razrabotchika,frontend-разработчика,GraphQL
+frontend-razrabotchika,frontend-разработчика,Webpack
+frontend-razrabotchika,frontend-разработчика,Vite
+frontend-razrabotchika,frontend-разработчика,"Jest, Testing Library"
+frontend-razrabotchika,frontend-разработчика,Playwright
+frontend-razrabotchika,frontend-разработчика,Git
+frontend-razrabotchika,frontend-разработчика,CI/CD (GitLab CI)
+frontend-razrabotchika,frontend-разработчика,"Web Performance, Core Web Vitals"
+frontend-razrabotchika,frontend-разработчика,Figma
+glavnogo-buhgaltera,главного бухгалтера,1С: Бухгалтерия 8.3
+glavnogo-buhgaltera,главного бухгалтера,1С: ERP
+glavnogo-buhgaltera,главного бухгалтера,1С: ЗУП
+glavnogo-buhgaltera,главного бухгалтера,Ведение учёта нескольких юрлиц
+glavnogo-buhgaltera,главного бухгалтера,"ОСНО, УСН"
+glavnogo-buhgaltera,главного бухгалтера,Налог на прибыль
+glavnogo-buhgaltera,главного бухгалтера,НДС
+glavnogo-buhgaltera,главного бухгалтера,ФСБУ
+glavnogo-buhgaltera,главного бухгалтера,Учётная политика
+glavnogo-buhgaltera,главного бухгалтера,Бухгалтерская (финансовая) отчётность
+glavnogo-buhgaltera,главного бухгалтера,Сопровождение налоговых проверок
+glavnogo-buhgaltera,главного бухгалтера,Работа с аудиторами
+glavnogo-buhgaltera,главного бухгалтера,Управленческая отчётность
+glavnogo-buhgaltera,главного бухгалтера,Бюджетирование
+glavnogo-buhgaltera,главного бухгалтера,МСФО
+glavnogo-buhgaltera,главного бухгалтера,Валютный контроль
+glavnogo-buhgaltera,главного бухгалтера,Управление командой
+glavnogo-buhgaltera,главного бухгалтера,"ЭДО (Диадок, СБИС, Контур)"
+gornichnoy,горничной,Уборка номеров по стандартам отеля
+gornichnoy,горничной,Выездная и текущая уборка
+gornichnoy,горничной,Генеральная уборка
+gornichnoy,горничной,Подготовка номера к заезду
+gornichnoy,горничной,Работа с профессиональной химией
+gornichnoy,горничной,Цветовая маркировка инвентаря
+gornichnoy,горничной,Работа с постельным бельём
+gornichnoy,горничной,Учёт минибара
+gornichnoy,горничной,Чек-листы уборки
+gornichnoy,горничной,Работа с поломоечной машиной
+gornichnoy,горничной,"Уход за разными поверхностями (мрамор, дерево, стекло)"
+gornichnoy,горничной,Глажка и уход за одеждой
+gornichnoy,горничной,Медицинская книжка
+gornichnoy,горничной,Английский язык (базовый)
+gruzchika,грузчика,Погрузочно-разгрузочные работы
+gruzchika,грузчика,Комплектация заказов
+gruzchika,грузчика,Работа с ТСД
+gruzchika,грузчика,Гидравлическая рохля
+gruzchika,грузчика,Электрическая рохля
+gruzchika,грузчика,Штабелёр
+gruzchika,грузчика,Удостоверение стропальщика
+gruzchika,грузчика,Удостоверение водителя погрузчика
+gruzchika,грузчика,Медицинская книжка
+gruzchika,грузчика,Работа со стрейч-плёнкой
+gruzchika,грузчика,Маркировка паллет
+gruzchika,грузчика,Приёмка товара
+gruzchika,грузчика,Работа со скоропортящимся товаром
+gruzchika,грузчика,Сборка и разборка мебели
+gruzchika,грузчика,Такелажные работы
+gruzchika,грузчика,Работа с хрупкими грузами
+hostes,хостес,Встреча и рассадка гостей
+hostes,хостес,Бронирование столов
+hostes,хостес,Онлайн-система бронирования
+hostes,хостес,Лист ожидания
+hostes,хостес,Схема рассадки зала
+hostes,хостес,Организация банкетов
+hostes,хостес,Работа с жалобами гостей
+hostes,хостес,Телефонные переговоры
+hostes,хостес,Ответы на отзывы
+hostes,хостес,iiko (базовый уровень)
+hostes,хостес,R-Keeper (базовый уровень)
+hostes,хостес,Английский язык
+hostes,хостес,Стандарты сервиса
+hostes,хостес,Медицинская книжка
+inzhenera,инженера,AutoCAD
+inzhenera,инженера,Revit
+inzhenera,инженера,Renga
+inzhenera,инженера,nanoCAD
+inzhenera,инженера,КОМПАС-3D
+inzhenera,инженера,SolidWorks
+inzhenera,инженера,Гранд-Смета
+inzhenera,инженера,MS Project
+inzhenera,инженера,Исполнительная документация
+inzhenera,инженера,"КС-2, КС-3"
+inzhenera,инженера,Акты скрытых работ
+inzhenera,инженера,Чтение рабочей документации
+inzhenera,инженера,СП и ГОСТ
+inzhenera,инженера,ЕСКД
+inzhenera,инженера,СПДС
+inzhenera,инженера,Технадзор
+inzhenera,инженера,Графики ППР
+inzhenera,инженера,НРС НОСТРОЙ / НОПРИЗ
+java-razrabotchika,Java-разработчика,Java 17
+java-razrabotchika,Java-разработчика,Java Core
+java-razrabotchika,Java-разработчика,Spring Boot
+java-razrabotchika,Java-разработчика,Spring Framework
+java-razrabotchika,Java-разработчика,Spring Data JPA
+java-razrabotchika,Java-разработчика,Spring Security
+java-razrabotchika,Java-разработчика,Hibernate
+java-razrabotchika,Java-разработчика,PostgreSQL
+java-razrabotchika,Java-разработчика,SQL
+java-razrabotchika,Java-разработчика,Apache Kafka
+java-razrabotchika,Java-разработчика,RabbitMQ
+java-razrabotchika,Java-разработчика,Redis
+java-razrabotchika,Java-разработчика,REST API
+java-razrabotchika,Java-разработчика,Микросервисная архитектура
+java-razrabotchika,Java-разработчика,Docker
+java-razrabotchika,Java-разработчика,Kubernetes
+java-razrabotchika,Java-разработчика,"Maven, Gradle"
+java-razrabotchika,Java-разработчика,"JUnit 5, Mockito"
+java-razrabotchika,Java-разработчика,"Git, GitLab CI"
+java-razrabotchika,Java-разработчика,Многопоточность
+kassira,кассира,Работа с онлайн-ККТ
+kassira,кассира,Эквайринг
+kassira,кассира,Оплата по QR-коду (СБП)
+kassira,кассира,Кассовая дисциплина
+kassira,кассира,X- и Z-отчёты
+kassira,кассира,Инкассация
+kassira,кассира,Проверка подлинности купюр
+kassira,кассира,ЕГАИС
+kassira,кассира,Маркировка «Честный знак»
+kassira,кассира,1С: Розница
+kassira,кассира,Frontol
+kassira,кассира,Касса самообслуживания
+kassira,кассира,Возвраты и аннуляция чеков
+kassira,кассира,Приёмка товара
+kassira,кассира,Выкладка по планограмме
+kassira,кассира,Медицинская книжка
+kladovshchika,кладовщика,Приёмка товара
+kladovshchika,кладовщика,Отгрузка
+kladovshchika,кладовщика,Комплектация заказов
+kladovshchika,кладовщика,Адресное хранение
+kladovshchika,кладовщика,Инвентаризация
+kladovshchika,кладовщика,1С: Управление торговлей
+kladovshchika,кладовщика,1С: Управление складом
+kladovshchika,кладовщика,WMS
+kladovshchika,кладовщика,ТСД
+kladovshchika,кладовщика,Погрузчик
+kladovshchika,кладовщика,Штабелёр
+kladovshchika,кладовщика,Работа с УПД и ТТН
+kladovshchika,кладовщика,Акты расхождений
+kladovshchika,кладовщика,FIFO / FEFO
+kladovshchika,кладовщика,Маркировка «Честный знак»
+kladovshchika,кладовщика,Работа с маркетплейсами (FBO)
+kladovshchika,кладовщика,Материальная ответственность
+komplektovshchika,комплектовщика,Сборка заказов по ТСД
+komplektovshchika,комплектовщика,WMS
+komplektovshchika,комплектовщика,1С: Управление складом
+komplektovshchika,комплектовщика,Адресное хранение
+komplektovshchika,комплектовщика,Сканер штрихкодов
+komplektovshchika,комплектовщика,Сборка по листу подбора
+komplektovshchika,комплектовщика,FEFO и FIFO
+komplektovshchika,комплектовщика,Электротележка (рохля)
+komplektovshchika,комплектовщика,Электроштабелёр
+komplektovshchika,комплектовщика,Удостоверение водителя погрузчика
+komplektovshchika,комплектовщика,Упаковка и стрейч-плёнка
+komplektovshchika,комплектовщика,Формирование паллет
+komplektovshchika,комплектовщика,Маркировка товара
+komplektovshchika,комплектовщика,Инвентаризация
+komplektovshchika,комплектовщика,Приёмка товара
+komplektovshchika,комплектовщика,Медицинская книжка
+konditera,кондитера,Муссовые торты и пирожные
+konditera,кондитера,Бисквиты
+konditera,кондитера,Кремы и начинки
+konditera,кондитера,Заварное тесто
+konditera,кондитера,Песочное и слоёное тесто
+konditera,кондитера,Макарон
+konditera,кондитера,Темперирование шоколада
+konditera,кондитера,Зеркальная глазурь
+konditera,кондитера,Работа с мастикой
+konditera,кондитера,Оформление тортов
+konditera,кондитера,Торты на заказ
+konditera,кондитера,Технологические карты
+konditera,кондитера,Расчёт себестоимости
+konditera,кондитера,Пароконвектомат
+konditera,кондитера,"Планетарный миксер, тестомес"
+konditera,кондитера,Шоковая заморозка
+konditera,кондитера,Санитарные нормы
+konditera,кондитера,Медицинская книжка
+kontent-menedzhera,контент-менеджера,1С-Битрикс
+kontent-menedzhera,контент-менеджера,WordPress
+kontent-menedzhera,контент-менеджера,Tilda
+kontent-menedzhera,контент-менеджера,Wildberries
+kontent-menedzhera,контент-менеджера,Ozon
+kontent-menedzhera,контент-менеджера,Яндекс Маркет
+kontent-menedzhera,контент-менеджера,SEO-оптимизация текстов
+kontent-menedzhera,контент-менеджера,Работа с семантическим ядром
+kontent-menedzhera,контент-менеджера,Копирайтинг
+kontent-menedzhera,контент-менеджера,Редактура и корректура
+kontent-menedzhera,контент-менеджера,Яндекс Метрика
+kontent-menedzhera,контент-менеджера,Figma
+kontent-menedzhera,контент-менеджера,Adobe Photoshop
+kontent-menedzhera,контент-менеджера,Canva
+kontent-menedzhera,контент-менеджера,Основы HTML
+kontent-menedzhera,контент-менеджера,ВКонтакте
+kontent-menedzhera,контент-менеджера,Telegram
+kontent-menedzhera,контент-менеджера,Excel / Google Таблицы
+kopiraytera,копирайтера,Копирайтинг
+kopiraytera,копирайтера,SEO-копирайтинг
+kopiraytera,копирайтера,Тексты для лендингов
+kopiraytera,копирайтера,Продающие тексты
+kopiraytera,копирайтера,Email-рассылки
+kopiraytera,копирайтера,Контент-маркетинг
+kopiraytera,копирайтера,Редактура и корректура
+kopiraytera,копирайтера,Tone of voice
+kopiraytera,копирайтера,Тексты для соцсетей
+kopiraytera,копирайтера,Карточки товаров для маркетплейсов
+kopiraytera,копирайтера,Рекламные тексты
+kopiraytera,копирайтера,Сценарии для видео
+kopiraytera,копирайтера,Составление контент-плана
+kopiraytera,копирайтера,Главред
+kopiraytera,копирайтера,Tilda
+kopiraytera,копирайтера,WordPress
+kopiraytera,копирайтера,Яндекс Метрика
+kopiraytera,копирайтера,Яндекс Вордстат
+kosmetologa,косметолога,Контурная пластика
+kosmetologa,косметолога,Ботулинотерапия
+kosmetologa,косметолога,Биоревитализация
+kosmetologa,косметолога,Мезотерапия
+kosmetologa,косметолога,Плазмотерапия
+kosmetologa,косметолога,Химические пилинги
+kosmetologa,косметолога,Лазерная эпиляция
+kosmetologa,косметолога,RF-лифтинг
+kosmetologa,косметолога,Фотоомоложение
+kosmetologa,косметолога,Уходовые процедуры
+kosmetologa,косметолога,Массаж лица
+kosmetologa,косметолога,Диагностика кожи
+kosmetologa,косметолога,Подбор домашнего ухода
+kosmetologa,косметолога,Медицинская документация
+kosmetologa,косметолога,Санитарно-эпидемиологические требования
+kosmetologa,косметолога,Аккредитация специалиста
+kurera,курьера,Водительское удостоверение категории B
+kurera,курьера,Личный автомобиль
+kurera,курьера,Велосипед / электровелосипед
+kurera,курьера,Работа с мобильным терминалом
+kurera,курьера,Приём наличных и инкассация
+kurera,курьера,Мобильное приложение курьера
+kurera,курьера,Яндекс Навигатор
+kurera,курьера,2ГИС
+kurera,курьера,Построение маршрута
+kurera,курьера,Работа с накладными
+kurera,курьера,Оформление возвратов
+kurera,курьера,Доставка документов
+kurera,курьера,Доставка крупногабаритных грузов
+kurera,курьера,Медицинская книжка
+logista,логиста,Транспортная логистика
+logista,логиста,Складская логистика
+logista,логиста,Организация грузоперевозок
+logista,логиста,Международные перевозки
+logista,логиста,Мультимодальные перевозки
+logista,логиста,ВЭД
+logista,логиста,Инкотермс 2020
+logista,логиста,Таможенное оформление
+logista,логиста,ATI.SU
+logista,логиста,1С: Управление торговлей
+logista,логиста,WMS
+logista,логиста,Маршрутизация
+logista,логиста,Товарно-транспортные документы
+logista,логиста,CMR
+logista,логиста,Расчёт стоимости доставки
+logista,логиста,Работа с перевозчиками
+logista,логиста,GPS-мониторинг транспорта
+logista,логиста,"Excel (сводные таблицы, ВПР)"
+logopeda,логопеда,Логопедическая диагностика
+logopeda,логопеда,Речевые карты
+logopeda,логопеда,Коррекция ОНР
+logopeda,логопеда,ФФНР
+logopeda,логопеда,Дизартрия
+logopeda,логопеда,Алалия
+logopeda,логопеда,Заикание
+logopeda,логопеда,Коррекция дисграфии и дислексии
+logopeda,логопеда,Постановка звуков
+logopeda,логопеда,Автоматизация и дифференциация звуков
+logopeda,логопеда,Логопедический массаж
+logopeda,логопеда,Зондовый массаж
+logopeda,логопеда,АООП
+logopeda,логопеда,Подготовка к ПМПК
+logopeda,логопеда,Работа в ППк
+logopeda,логопеда,Нейропсихологические упражнения
+logopeda,логопеда,Онлайн-занятия
+marketologa,маркетолога,Яндекс Директ
+marketologa,маркетолога,VK Реклама
+marketologa,маркетолога,Яндекс Метрика
+marketologa,маркетолога,Яндекс Бизнес и геосервисы
+marketologa,маркетолога,"Сквозная аналитика (Roistat, Calltouch)"
+marketologa,маркетолога,Looker Studio
+marketologa,маркетолога,amoCRM
+marketologa,маркетолога,Битрикс24
+marketologa,маркетолога,Tilda
+marketologa,маркетолога,"Email-маркетинг (Unisender, Sendsay)"
+marketologa,маркетолога,SEO (базовый уровень)
+marketologa,маркетолога,Юнит-экономика
+marketologa,маркетолога,"CPL, CAC, ROMI, LTV"
+marketologa,маркетолога,A/B-тестирование
+marketologa,маркетолога,Customer Journey Map
+marketologa,маркетолога,Анализ конкурентов
+marketologa,маркетолога,Excel / Google Таблицы
+massazhista,массажиста,Классический массаж
+massazhista,массажиста,Лечебный массаж
+massazhista,массажиста,Лимфодренажный массаж
+massazhista,массажиста,Спортивный массаж
+massazhista,массажиста,Антицеллюлитный массаж
+massazhista,массажиста,Массаж лица
+massazhista,массажиста,Релакс- и СПА-массаж
+massazhista,массажиста,Баночный массаж
+massazhista,массажиста,Массаж шейно-воротниковой зоны
+massazhista,массажиста,Знание анатомии и физиологии
+massazhista,массажиста,Противопоказания к массажу
+massazhista,массажиста,Работа по назначению врача
+massazhista,массажиста,Основы ЛФК
+massazhista,массажиста,Санитарно-эпидемиологические требования
+massazhista,массажиста,YCLIENTS
+massazhista,массажиста,Продажа абонементов
+mastera-manikyura,мастера маникюра,Аппаратный маникюр
+mastera-manikyura,мастера маникюра,Комбинированный маникюр
+mastera-manikyura,мастера маникюра,Классический маникюр
+mastera-manikyura,мастера маникюра,Покрытие гель-лаком
+mastera-manikyura,мастера маникюра,Выравнивание и укрепление ногтевой пластины
+mastera-manikyura,мастера маникюра,Наращивание на формы
+mastera-manikyura,мастера маникюра,Наращивание на верхние формы
+mastera-manikyura,мастера маникюра,Коррекция наращенных ногтей
+mastera-manikyura,мастера маникюра,Френч
+mastera-manikyura,мастера маникюра,Дизайн ногтей
+mastera-manikyura,мастера маникюра,Аппаратный педикюр
+mastera-manikyura,мастера маникюра,Мужской маникюр
+mastera-manikyura,мастера маникюра,SPA-уход для рук
+mastera-manikyura,мастера маникюра,Обработка и стерилизация инструмента
+mastera-manikyura,мастера маникюра,Медицинская книжка
+mastera-manikyura,мастера маникюра,YCLIENTS
+mastera-manikyura,мастера маникюра,Ведение портфолио
+medsestry,медсестры,Венепункция
+medsestry,медсестры,Внутривенные и внутримышечные инъекции
+medsestry,медсестры,Постановка капельниц
+medsestry,медсестры,Катетеризация
+medsestry,медсестры,Перевязки
+medsestry,медсестры,Снятие ЭКГ
+medsestry,медсестры,Забор биоматериала
+medsestry,медсестры,Асептика и антисептика
+medsestry,медсестры,Санэпидрежим
+medsestry,медсестры,Стерилизация и дезинфекция
+medsestry,медсестры,Неотложная помощь
+medsestry,медсестры,Сердечно-лёгочная реанимация
+medsestry,медсестры,Уход за пациентами
+medsestry,медсестры,Подготовка к операциям
+medsestry,медсестры,Учёт медикаментов
+medsestry,медсестры,МИС
+medsestry,медсестры,Работа с медицинской документацией
+menedzhera-marketpleysov,менеджера маркетплейсов,Wildberries
+menedzhera-marketpleysov,менеджера маркетплейсов,Ozon
+menedzhera-marketpleysov,менеджера маркетплейсов,Яндекс Маркет
+menedzhera-marketpleysov,менеджера маркетплейсов,Мегамаркет
+menedzhera-marketpleysov,менеджера маркетплейсов,FBO
+menedzhera-marketpleysov,менеджера маркетплейсов,FBS
+menedzhera-marketpleysov,менеджера маркетплейсов,Юнит-экономика
+menedzhera-marketpleysov,менеджера маркетплейсов,Реклама на маркетплейсах
+menedzhera-marketpleysov,менеджера маркетплейсов,ДРР
+menedzhera-marketpleysov,менеджера маркетплейсов,SEO-оптимизация карточек
+menedzhera-marketpleysov,менеджера маркетплейсов,Инфографика (ТЗ дизайнеру)
+menedzhera-marketpleysov,менеджера маркетплейсов,MPStats
+menedzhera-marketpleysov,менеджера маркетплейсов,Планирование поставок
+menedzhera-marketpleysov,менеджера маркетплейсов,Управление остатками
+menedzhera-marketpleysov,менеджера маркетплейсов,Ценообразование
+menedzhera-marketpleysov,менеджера маркетплейсов,Работа с отзывами
+menedzhera-marketpleysov,менеджера маркетплейсов,Excel / Google Таблицы
+menedzhera-marketpleysov,менеджера маркетплейсов,1С: Управление торговлей
+menedzhera-po-personalu,менеджера по персоналу,Подбор персонала
+menedzhera-po-personalu,менеджера по персоналу,Массовый подбор
+menedzhera-po-personalu,менеджера по персоналу,Адаптация персонала
+menedzhera-po-personalu,менеджера по персоналу,Кадровое делопроизводство
+menedzhera-po-personalu,менеджера по персоналу,Трудовое законодательство
+menedzhera-po-personalu,менеджера по персоналу,1С: ЗУП
+menedzhera-po-personalu,менеджера по персоналу,КЭДО
+menedzhera-po-personalu,менеджера по персоналу,Электронные трудовые книжки
+menedzhera-po-personalu,менеджера по персоналу,Воинский учёт
+menedzhera-po-personalu,менеджера по персоналу,"hh.ru, Авито Работа, SuperJob"
+menedzhera-po-personalu,менеджера по персоналу,"ATS (Хантфлоу, Potok)"
+menedzhera-po-personalu,менеджера по персоналу,Оценка персонала
+menedzhera-po-personalu,менеджера по персоналу,Организация обучения
+menedzhera-po-personalu,менеджера по персоналу,HR-аналитика
+menedzhera-po-personalu,менеджера по персоналу,Excel (сводные таблицы)
+menedzhera-po-personalu,менеджера по персоналу,Кадровый резерв
+menedzhera-po-personalu,менеджера по персоналу,Exit-интервью
+menedzhera-po-personalu,менеджера по персоналу,HR-бренд
+menedzhera-po-prodazham,менеджера по продажам,Активные продажи
+menedzhera-po-prodazham,менеджера по продажам,B2B-продажи
+menedzhera-po-prodazham,менеджера по продажам,B2C-продажи
+menedzhera-po-prodazham,менеджера по продажам,Холодные звонки
+menedzhera-po-prodazham,менеджера по продажам,Ведение переговоров
+menedzhera-po-prodazham,менеджера по продажам,Работа с возражениями
+menedzhera-po-prodazham,менеджера по продажам,amoCRM
+menedzhera-po-prodazham,менеджера по продажам,Bitrix24
+menedzhera-po-prodazham,менеджера по продажам,1С: Управление торговлей
+menedzhera-po-prodazham,менеджера по продажам,Коммерческие предложения
+menedzhera-po-prodazham,менеджера по продажам,"Тендеры (44-ФЗ, 223-ФЗ)"
+menedzhera-po-prodazham,менеджера по продажам,Управление воронкой продаж
+menedzhera-po-prodazham,менеджера по продажам,SPIN-продажи
+menedzhera-po-prodazham,менеджера по продажам,Работа с дебиторской задолженностью
+menedzhera-po-prodazham,менеджера по продажам,Заключение договоров
+menedzhera-po-prodazham,менеджера по продажам,Презентация продукта
+menedzhera-po-prodazham,менеджера по продажам,Key account management
+menedzhera-po-prodazham,менеджера по продажам,Excel (сводные таблицы)
+menedzhera-po-rabote-s-klientami,менеджера по работе с клиентами,Ведение клиентской базы
+menedzhera-po-rabote-s-klientami,менеджера по работе с клиентами,Удержание клиентов
+menedzhera-po-rabote-s-klientami,менеджера по работе с клиентами,"Допродажи (up-sell, cross-sell)"
+menedzhera-po-rabote-s-klientami,менеджера по работе с клиентами,Битрикс24
+menedzhera-po-rabote-s-klientami,менеджера по работе с клиентами,amoCRM
+menedzhera-po-rabote-s-klientami,менеджера по работе с клиентами,1С: Управление торговлей
+menedzhera-po-rabote-s-klientami,менеджера по работе с клиентами,Работа с дебиторской задолженностью
+menedzhera-po-rabote-s-klientami,менеджера по работе с клиентами,Работа с претензиями
+menedzhera-po-rabote-s-klientami,менеджера по работе с клиентами,Заключение договоров
+menedzhera-po-rabote-s-klientami,менеджера по работе с клиентами,Деловая переписка
+menedzhera-po-rabote-s-klientami,менеджера по работе с клиентами,Проведение переговоров
+menedzhera-po-rabote-s-klientami,менеджера по работе с клиентами,Ведение ключевых клиентов (KAM)
+menedzhera-po-rabote-s-klientami,менеджера по работе с клиентами,Подготовка коммерческих предложений
+menedzhera-po-rabote-s-klientami,менеджера по работе с клиентами,"NPS, опросы клиентов"
+menedzhera-po-rabote-s-klientami,менеджера по работе с клиентами,Excel (сводные таблицы)
+menedzhera-po-rabote-s-klientami,менеджера по работе с клиентами,Телефонные переговоры
+menedzhera-po-rabote-s-klientami,менеджера по работе с клиентами,Работа с возражениями
+menedzhera-proektov,менеджера проектов,Управление проектами
+menedzhera-proektov,менеджера проектов,Agile
+menedzhera-proektov,менеджера проектов,Scrum
+menedzhera-proektov,менеджера проектов,Kanban
+menedzhera-proektov,менеджера проектов,Waterfall
+menedzhera-proektov,менеджера проектов,Jira
+menedzhera-proektov,менеджера проектов,Confluence
+menedzhera-proektov,менеджера проектов,MS Project
+menedzhera-proektov,менеджера проектов,YouGile
+menedzhera-proektov,менеджера проектов,Планирование и оценка сроков
+menedzhera-proektov,менеджера проектов,Управление рисками
+menedzhera-proektov,менеджера проектов,Управление бюджетом проекта
+menedzhera-proektov,менеджера проектов,Управление командой
+menedzhera-proektov,менеджера проектов,Работа с заказчиком
+menedzhera-proektov,менеджера проектов,Составление ТЗ
+menedzhera-proektov,менеджера проектов,Диаграмма Ганта
+menedzhera-proektov,менеджера проектов,PMBOK
+menedzhera-proektov,менеджера проектов,Английский язык
+menedzhera,менеджера,B2B-продажи
+menedzhera,менеджера,Работа с ключевыми клиентами
+menedzhera,менеджера,Ведение переговоров
+menedzhera,менеджера,Подготовка коммерческих предложений
+menedzhera,менеджера,Работа с возражениями
+menedzhera,менеджера,amoCRM
+menedzhera,менеджера,Битрикс24
+menedzhera,менеджера,1С: Управление торговлей
+menedzhera,менеджера,Заключение договоров
+menedzhera,менеджера,Работа с дебиторской задолженностью
+menedzhera,менеджера,Тендеры и закупки
+menedzhera,менеджера,Управление проектами
+menedzhera,менеджера,Jira / Trello
+menedzhera,менеджера,"Excel (ВПР, сводные таблицы)"
+menedzhera,менеджера,Деловая переписка
+menedzhera,менеджера,Планирование продаж
+menedzhera,менеджера,Анализ рынка
+merchendayzera,мерчендайзера,Выкладка по планограмме
+merchendayzera,мерчендайзера,Ротация товара (FIFO)
+merchendayzera,мерчендайзера,Контроль сроков годности
+merchendayzera,мерчендайзера,Фотоотчёты в мобильном приложении
+merchendayzera,мерчендайзера,Размещение POS-материалов
+merchendayzera,мерчендайзера,Оформление дополнительных мест продаж
+merchendayzera,мерчендайзера,"Контроль остатков, out-of-stock"
+merchendayzera,мерчендайзера,Работа с ценниками и переоценка
+merchendayzera,мерчендайзера,Доля полки
+merchendayzera,мерчендайзера,Работа с ТСД
+merchendayzera,мерчендайзера,Возвраты товара
+merchendayzera,мерчендайзера,Инвентаризация
+merchendayzera,мерчендайзера,Работа по маршруту
+merchendayzera,мерчендайзера,Медицинская книжка
+merchendayzera,мерчендайзера,"Права категории B, личный автомобиль"
+merchendayzera,мерчендайзера,Стандарты мерчендайзинга бренда
+nyani,няни,Уход за новорождёнными
+nyani,няни,Уход за детьми до 3 лет
+nyani,няни,Режим дня ребёнка
+nyani,няни,Детское питание и прикорм
+nyani,няни,Развивающие занятия
+nyani,няни,Методика Монтессори (базовый курс)
+nyani,няни,Подготовка к детскому саду
+nyani,няни,Подготовка к школе
+nyani,няни,Помощь с домашними заданиями
+nyani,няни,Развитие речи
+nyani,няни,Подвижные и творческие игры
+nyani,няни,Первая помощь детям
+nyani,няни,Справка об отсутствии судимости
+nyani,няни,Медицинская книжка
+nyani,няни,Права категории B
+nyani,няни,Английский язык для занятий с ребёнком
+oficianta,официанта,Сервировка столов
+oficianta,официанта,Банкетное обслуживание
+oficianta,официанта,Обслуживание по стандартам сервиса
+oficianta,официанта,Знание винной карты
+oficianta,официанта,Подача вина
+oficianta,официанта,Барная карта
+oficianta,официанта,Знание аллергенов
+oficianta,официанта,Допродажи
+oficianta,официанта,iiko
+oficianta,официанта,R-Keeper
+oficianta,официанта,Работа с POS-терминалом
+oficianta,официанта,Расчёт гостей и разделение счёта
+oficianta,официанта,Работа с бронированием
+oficianta,официанта,Медицинская книжка
+oficianta,официанта,Английский язык (разговорный)
+ofis-menedzhera,офис-менеджера,Административно-хозяйственная деятельность
+ofis-menedzhera,офис-менеджера,Делопроизводство
+ofis-menedzhera,офис-менеджера,1С: Документооборот
+ofis-menedzhera,офис-менеджера,Битрикс24
+ofis-menedzhera,офис-менеджера,ЭДО
+ofis-menedzhera,офис-менеджера,Деловая переписка
+ofis-menedzhera,офис-менеджера,Закупки и работа с поставщиками
+ofis-menedzhera,офис-менеджера,Договоры с подрядчиками
+ofis-menedzhera,офис-менеджера,Бюджетирование офиса
+ofis-menedzhera,офис-менеджера,Организация командировок
+ofis-menedzhera,офис-менеджера,Авансовые отчёты
+ofis-menedzhera,офис-менеджера,Организация мероприятий
+ofis-menedzhera,офис-менеджера,Кадровое делопроизводство (базовое)
+ofis-menedzhera,офис-менеджера,"Excel (ВПР, сводные таблицы)"
+ofis-menedzhera,офис-менеджера,Google Таблицы
+ofis-menedzhera,офис-менеджера,Работа с оргтехникой
+ofis-menedzhera,офис-менеджера,Учёт материальных ценностей
+ohrannika,охранника,Удостоверение частного охранника
+ohrannika,охранника,Периодическая проверка
+ohrannika,охранника,Пропускной режим
+ohrannika,охранника,Внутриобъектовый режим
+ohrannika,охранника,СКУД
+ohrannika,охранника,Системы видеонаблюдения
+ohrannika,охранника,Охранно-пожарная сигнализация (ОПС)
+ohrannika,охранника,Контроль въезда и выезда транспорта
+ohrannika,охранника,Проверка документов и пломб
+ohrannika,охранника,Обходы территории
+ohrannika,охранника,Досмотр по правилам объекта
+ohrannika,охранника,Работа с металлодетектором
+ohrannika,охранника,Первая помощь
+ohrannika,охранника,Пожарная безопасность и эвакуация
+ohrannika,охранника,Ведение служебной документации
+ohrannika,охранника,Взаимодействие с ГБР и полицией
+operatora-chpu,оператора станков с ЧПУ,Наладка станков с ЧПУ
+operatora-chpu,оператора станков с ЧПУ,Токарные станки с ЧПУ
+operatora-chpu,оператора станков с ЧПУ,Фрезерные станки с ЧПУ
+operatora-chpu,оператора станков с ЧПУ,Обрабатывающие центры
+operatora-chpu,оператора станков с ЧПУ,5-осевая обработка
+operatora-chpu,оператора станков с ЧПУ,Fanuc
+operatora-chpu,оператора станков с ЧПУ,Siemens Sinumerik
+operatora-chpu,оператора станков с ЧПУ,Heidenhain
+operatora-chpu,оператора станков с ЧПУ,G-код
+operatora-chpu,оператора станков с ЧПУ,CAM-системы
+operatora-chpu,оператора станков с ЧПУ,Чтение чертежей
+operatora-chpu,оператора станков с ЧПУ,Режимы резания
+operatora-chpu,оператора станков с ЧПУ,Привязка инструмента
+operatora-chpu,оператора станков с ЧПУ,"Штангенциркуль, микрометр, нутромер"
+operatora-chpu,оператора станков с ЧПУ,Квалитеты точности и шероховатость
+operatora-chpu,оператора станков с ЧПУ,Работа с СОЖ
+operatora-chpu,оператора станков с ЧПУ,Многостаночное обслуживание
+operatora-koll-centra,оператора колл-центра,Входящая линия
+operatora-koll-centra,оператора колл-центра,Исходящие звонки
+operatora-koll-centra,оператора колл-центра,Холодные звонки
+operatora-koll-centra,оператора колл-центра,Работа по скриптам
+operatora-koll-centra,оператора колл-центра,Работа с возражениями
+operatora-koll-centra,оператора колл-центра,Работа с жалобами
+operatora-koll-centra,оператора колл-центра,Bitrix24
+operatora-koll-centra,оператора колл-центра,amoCRM
+operatora-koll-centra,оператора колл-центра,1С: CRM
+operatora-koll-centra,оператора колл-центра,Naumen Contact Center
+operatora-koll-centra,оператора колл-центра,IP-телефония
+operatora-koll-centra,оператора колл-центра,Ведение чатов и мессенджеров
+operatora-koll-centra,оператора колл-центра,Слепой метод печати
+operatora-koll-centra,оператора колл-центра,Деловая переписка
+operatora-koll-centra,оператора колл-центра,Техническая поддержка первой линии
+operatora-koll-centra,оператора колл-центра,Excel / Google Таблицы
+operatora-koll-centra,оператора колл-центра,Оформление заказов
+operatora-pk,оператора ПК,Слепая печать
+operatora-pk,оператора ПК,Скорость набора 250–300 знаков в минуту
+operatora-pk,оператора ПК,1С: Предприятие
+operatora-pk,оператора ПК,1С: Управление торговлей
+operatora-pk,оператора ПК,1С: Бухгалтерия (ввод первички)
+operatora-pk,оператора ПК,"Excel (ВПР, сводные таблицы)"
+operatora-pk,оператора ПК,Word
+operatora-pk,оператора ПК,Google Таблицы
+operatora-pk,оператора ПК,CRM-системы
+operatora-pk,оператора ПК,Ввод и проверка данных
+operatora-pk,оператора ПК,Первичная документация
+operatora-pk,оператора ПК,Сканирование и архивирование
+operatora-pk,оператора ПК,Расшифровка аудио
+operatora-pk,оператора ПК,Работа с электронной почтой
+parikmahera,парикмахера,Женские стрижки
+parikmahera,парикмахера,Мужские стрижки
+parikmahera,парикмахера,Детские стрижки
+parikmahera,парикмахера,Сложное окрашивание
+parikmahera,парикмахера,Airtouch
+parikmahera,парикмахера,Балаяж
+parikmahera,парикмахера,Шатуш
+parikmahera,парикмахера,Колористика
+parikmahera,парикмахера,Тонирование
+parikmahera,парикмахера,Мелирование
+parikmahera,парикмахера,Укладки
+parikmahera,парикмахера,Свадебные и вечерние причёски
+parikmahera,парикмахера,Кератиновое выпрямление
+parikmahera,парикмахера,Ботокс для волос
+parikmahera,парикмахера,Уход за волосами
+parikmahera,парикмахера,YCLIENTS
+parikmahera,парикмахера,Санитарные нормы
+perevodchika,переводчика,Английский язык C1/C2
+perevodchika,переводчика,Письменный перевод
+perevodchika,переводчика,Последовательный перевод
+perevodchika,переводчика,Синхронный перевод
+perevodchika,переводчика,Технический перевод
+perevodchika,переводчика,Юридический перевод
+perevodchika,переводчика,Медицинский перевод
+perevodchika,переводчика,Локализация ПО
+perevodchika,переводчика,Trados Studio
+perevodchika,переводчика,memoQ
+perevodchika,переводчика,Smartcat
+perevodchika,переводчика,Постредактирование машинного перевода (MTPE)
+perevodchika,переводчика,Ведение глоссариев
+perevodchika,переводчика,Память переводов
+perevodchika,переводчика,Редактирование и вычитка
+perevodchika,переводчика,Вёрстка переводов
+perevodchika,переводчика,Деловая переписка на английском
+pomoshchnika-rukovoditelya,помощника руководителя,Управление календарём
+pomoshchnika-rukovoditelya,помощника руководителя,Организация командировок
+pomoshchnika-rukovoditelya,помощника руководителя,Оформление виз
+pomoshchnika-rukovoditelya,помощника руководителя,Деловая переписка
+pomoshchnika-rukovoditelya,помощника руководителя,Протоколирование совещаний
+pomoshchnika-rukovoditelya,помощника руководителя,Контроль исполнения поручений
+pomoshchnika-rukovoditelya,помощника руководителя,Документооборот
+pomoshchnika-rukovoditelya,помощника руководителя,1С: Документооборот
+pomoshchnika-rukovoditelya,помощника руководителя,Битрикс24
+pomoshchnika-rukovoditelya,помощника руководителя,"MS Word, Excel"
+pomoshchnika-rukovoditelya,помощника руководителя,PowerPoint
+pomoshchnika-rukovoditelya,помощника руководителя,Google Workspace
+pomoshchnika-rukovoditelya,помощника руководителя,Организация мероприятий
+pomoshchnika-rukovoditelya,помощника руководителя,Делопроизводство
+pomoshchnika-rukovoditelya,помощника руководителя,Английский язык B2
+povara,повара,Горячий цех
+povara,повара,Холодный цех
+povara,повара,Заготовочный цех
+povara,повара,Кондитерский цех
+povara,повара,Технологические карты
+povara,повара,Пароконвектомат
+povara,повара,Су-вид
+povara,повара,Гриль
+povara,повара,ХАССП
+povara,повара,Санитарные нормы
+povara,повара,Европейская кухня
+povara,повара,Японская кухня
+povara,повара,Паназиатская кухня
+povara,повара,Калькуляция блюд
+povara,повара,Фудкост
+povara,повара,iiko
+povara,повара,Инвентаризация
+povara,повара,Приёмка продуктов
+prodavca-konsultanta,продавца-консультанта,Активные продажи
+prodavca-konsultanta,продавца-консультанта,Техники продаж
+prodavca-konsultanta,продавца-консультанта,Работа с возражениями
+prodavca-konsultanta,продавца-консультанта,Кросс-продажи и допродажи
+prodavca-konsultanta,продавца-консультанта,Онлайн-касса
+prodavca-konsultanta,продавца-консультанта,Работа с терминалом оплаты
+prodavca-konsultanta,продавца-консультанта,1С: Розница
+prodavca-konsultanta,продавца-консультанта,Сканер штрихкодов и ТСД
+prodavca-konsultanta,продавца-консультанта,Мерчандайзинг
+prodavca-konsultanta,продавца-консультанта,Выкладка по планограмме
+prodavca-konsultanta,продавца-консультанта,Приёмка товара по накладным
+prodavca-konsultanta,продавца-консультанта,Инвентаризация
+prodavca-konsultanta,продавца-консультанта,Оформление возвратов и обменов
+prodavca-konsultanta,продавца-консультанта,Оформление рассрочки и кредита
+prodavca-konsultanta,продавца-консультанта,Программа лояльности
+prodavca-konsultanta,продавца-консультанта,Маркировка товаров («Честный знак»)
+prodavca-konsultanta,продавца-консультанта,Медицинская книжка (для продуктовой розницы)
+produkt-menedzhera,продакт-менеджера,Управление продуктом
+produkt-menedzhera,продакт-менеджера,"Продуктовые метрики (retention, конверсия, LTV, ARPU)"
+produkt-menedzhera,продакт-менеджера,A/B-тестирование
+produkt-menedzhera,продакт-менеджера,CustDev
+produkt-menedzhera,продакт-менеджера,JTBD
+produkt-menedzhera,продакт-менеджера,Unit-экономика
+produkt-menedzhera,продакт-менеджера,"Приоритизация (RICE, ICE)"
+produkt-menedzhera,продакт-менеджера,Роадмап
+produkt-menedzhera,продакт-менеджера,Написание PRD и пользовательских историй
+produkt-menedzhera,продакт-менеджера,SQL
+produkt-menedzhera,продакт-менеджера,Amplitude
+produkt-menedzhera,продакт-менеджера,AppMetrica
+produkt-menedzhera,продакт-менеджера,Яндекс Метрика
+produkt-menedzhera,продакт-менеджера,Jira
+produkt-menedzhera,продакт-менеджера,Confluence
+produkt-menedzhera,продакт-менеджера,Figma
+produkt-menedzhera,продакт-менеджера,Miro
+produkt-menedzhera,продакт-менеджера,Scrum / Kanban
+produkt-menedzhera,продакт-менеджера,Анализ конкурентов
+programmista-1s,программиста 1С,1С: Предприятие 8.3
+programmista-1s,программиста 1С,1С: ERP 2.5
+programmista-1s,программиста 1С,1С: КА 2
+programmista-1s,программиста 1С,1С: УТ 11
+programmista-1s,программиста 1С,1С: Бухгалтерия 3.0
+programmista-1s,программиста 1С,1С: ЗУП 3.1
+programmista-1s,программиста 1С,1С: УПП
+programmista-1s,программиста 1С,Расширения конфигурации
+programmista-1s,программиста 1С,СКД
+programmista-1s,программиста 1С,БСП
+programmista-1s,программиста 1С,Конвертация данных 3.0
+programmista-1s,программиста 1С,EnterpriseData
+programmista-1s,программиста 1С,HTTP-сервисы
+programmista-1s,программиста 1С,REST API
+programmista-1s,программиста 1С,Оптимизация запросов
+programmista-1s,программиста 1С,Хранилище конфигурации
+programmista-1s,программиста 1С,1С: EDT
+programmista-1s,программиста 1С,MS SQL / PostgreSQL
+programmista-1s,программиста 1С,Git
+programmista,программиста,Python
+programmista,программиста,Java
+programmista,программиста,JavaScript / TypeScript
+programmista,программиста,C#
+programmista,программиста,Go
+programmista,программиста,PHP
+programmista,программиста,Django
+programmista,программиста,FastAPI
+programmista,программиста,Spring
+programmista,программиста,React
+programmista,программиста,PostgreSQL
+programmista,программиста,MySQL
+programmista,программиста,MongoDB
+programmista,программиста,Redis
+programmista,программиста,Docker
+programmista,программиста,Kubernetes
+programmista,программиста,Git
+programmista,программиста,CI/CD
+programmista,программиста,REST API
+programmista,программиста,Linux
+proraba,прораба,Монолитные работы
+proraba,прораба,Кладочные работы
+proraba,прораба,Отделочные работы
+proraba,прораба,Кровельные работы
+proraba,прораба,Чтение проектной и рабочей документации
+proraba,прораба,ППР
+proraba,прораба,Исполнительная документация
+proraba,прораба,Общий журнал работ
+proraba,прораба,Акты освидетельствования скрытых работ (АОСР)
+proraba,прораба,"КС-2, КС-3"
+proraba,прораба,Входной и операционный контроль
+proraba,прораба,Охрана труда
+proraba,прораба,Работы на высоте
+proraba,прораба,Наряды-допуски
+proraba,прораба,AutoCAD
+proraba,прораба,MS Project
+proraba,прораба,Excel
+proraba,прораба,Гранд-Смета
+psihologa,психолога,Индивидуальное консультирование
+psihologa,психолога,Когнитивно-поведенческая терапия (КПТ)
+psihologa,психолога,Гештальт-терапия
+psihologa,психолога,Психодинамический подход
+psihologa,психолога,Системная семейная терапия
+psihologa,психолога,Онлайн-консультирование
+psihologa,психолога,Кризисное консультирование
+psihologa,психолога,Психодиагностика
+psihologa,психолога,Групповая работа
+psihologa,психолога,Тренинги
+psihologa,психолога,Работа с детьми и подростками
+psihologa,психолога,Работа с родителями
+psihologa,психолога,Профилактика выгорания
+psihologa,психолога,Психологическое просвещение
+psihologa,психолога,Составление психологических заключений
+psihologa,психолога,Супервизия
+python-razrabotchika,Python-разработчика,Python
+python-razrabotchika,Python-разработчика,Django
+python-razrabotchika,Python-разработчика,Django REST Framework
+python-razrabotchika,Python-разработчика,FastAPI
+python-razrabotchika,Python-разработчика,Flask
+python-razrabotchika,Python-разработчика,asyncio
+python-razrabotchika,Python-разработчика,PostgreSQL
+python-razrabotchika,Python-разработчика,SQLAlchemy
+python-razrabotchika,Python-разработчика,Redis
+python-razrabotchika,Python-разработчика,Celery
+python-razrabotchika,Python-разработчика,RabbitMQ
+python-razrabotchika,Python-разработчика,Kafka
+python-razrabotchika,Python-разработчика,Docker
+python-razrabotchika,Python-разработчика,Kubernetes
+python-razrabotchika,Python-разработчика,pytest
+python-razrabotchika,Python-разработчика,Git
+python-razrabotchika,Python-разработчика,GitLab CI
+python-razrabotchika,Python-разработчика,REST API
+python-razrabotchika,Python-разработчика,Linux
+rekrutera,рекрутера,Full-cycle рекрутинг
+rekrutera,рекрутера,Массовый подбор
+rekrutera,рекрутера,Подбор IT-специалистов
+rekrutera,рекрутера,Executive search
+rekrutera,рекрутера,Активный поиск (сорсинг)
+rekrutera,рекрутера,Интервью по компетенциям
+rekrutera,рекрутера,Телефонный скрининг
+rekrutera,рекрутера,Хантфлоу
+rekrutera,рекрутера,Talantix
+rekrutera,рекрутера,E-Staff
+rekrutera,рекрутера,hh.ru
+rekrutera,рекрутера,Хабр Карьера
+rekrutera,рекрутера,Авито Работа
+rekrutera,рекрутера,Составление профиля вакансии
+rekrutera,рекрутера,Работа с офферами
+rekrutera,рекрутера,Аналитика воронки подбора
+rekrutera,рекрутера,Employer branding
+rekrutera,рекрутера,Excel / Google Таблицы
+repetitora,репетитора,Подготовка к ЕГЭ
+repetitora,репетитора,Подготовка к ОГЭ
+repetitora,репетитора,Подготовка к ВПР
+repetitora,репетитора,Школьная программа 1–11 классов
+repetitora,репетитора,Подготовка к олимпиадам
+repetitora,репетитора,"Подготовка к международным экзаменам (IELTS, TOEFL)"
+repetitora,репетитора,Индивидуальные занятия
+repetitora,репетитора,Групповые занятия
+repetitora,репетитора,Онлайн-обучение
+repetitora,репетитора,Zoom
+repetitora,репетитора,Miro
+repetitora,репетитора,Google Meet
+repetitora,репетитора,"Интерактивные задания (Quizlet, Wordwall)"
+repetitora,репетитора,Диагностика знаний
+repetitora,репетитора,Разработка учебных материалов
+repetitora,репетитора,Справка об отсутствии судимости
+rieltora,риелтора,Сделки с вторичным жильём
+rieltora,риелтора,"Новостройки, ДДУ"
+rieltora,риелтора,Альтернативные сделки
+rieltora,риелтора,Ипотечные сделки
+rieltora,риелтора,Аренда жилой недвижимости
+rieltora,риелтора,Коммерческая недвижимость
+rieltora,риелтора,Загородная недвижимость
+rieltora,риелтора,Проверка юридической чистоты объекта
+rieltora,риелтора,Выписка ЕГРН
+rieltora,риелтора,Эксклюзивные договоры
+rieltora,риелтора,"Аккредитив, эскроу-счета"
+rieltora,риелтора,Оценка рыночной стоимости
+rieltora,риелтора,"Циан, Авито, Домклик"
+rieltora,риелтора,CRM
+rieltora,риелтора,Холодные звонки
+rieltora,риелтора,Переговоры
+rieltora,риелтора,Водительское удостоверение категории B
+rukovoditelya-otdela-prodazh,руководителя отдела продаж,Управление отделом продаж
+rukovoditelya-otdela-prodazh,руководителя отдела продаж,Планирование и прогнозирование продаж
+rukovoditelya-otdela-prodazh,руководителя отдела продаж,B2B-продажи
+rukovoditelya-otdela-prodazh,руководителя отдела продаж,B2C-продажи
+rukovoditelya-otdela-prodazh,руководителя отдела продаж,amoCRM
+rukovoditelya-otdela-prodazh,руководителя отдела продаж,Битрикс24
+rukovoditelya-otdela-prodazh,руководителя отдела продаж,Аналитика воронки продаж
+rukovoditelya-otdela-prodazh,руководителя отдела продаж,Разработка системы мотивации
+rukovoditelya-otdela-prodazh,руководителя отдела продаж,KPI
+rukovoditelya-otdela-prodazh,руководителя отдела продаж,Найм и адаптация персонала
+rukovoditelya-otdela-prodazh,руководителя отдела продаж,Скрипты продаж
+rukovoditelya-otdela-prodazh,руководителя отдела продаж,Контроль качества звонков
+rukovoditelya-otdela-prodazh,руководителя отдела продаж,Работа с ключевыми клиентами
+rukovoditelya-otdela-prodazh,руководителя отдела продаж,"Тендеры (44-ФЗ, 223-ФЗ)"
+rukovoditelya-otdela-prodazh,руководителя отдела продаж,Управление дебиторской задолженностью
+rukovoditelya-otdela-prodazh,руководителя отдела продаж,"Excel (сводные таблицы, ВПР)"
+rukovoditelya-otdela-prodazh,руководителя отдела продаж,Ведение переговоров
+rukovoditelya,руководителя,Управление командой
+rukovoditelya,руководителя,Управление персоналом
+rukovoditelya,руководителя,Бюджетирование
+rukovoditelya,руководителя,P&L
+rukovoditelya,руководителя,KPI
+rukovoditelya,руководителя,OKR
+rukovoditelya,руководителя,Управление проектами
+rukovoditelya,руководителя,Оптимизация бизнес-процессов
+rukovoditelya,руководителя,Стратегическое планирование
+rukovoditelya,руководителя,Разработка регламентов
+rukovoditelya,руководителя,Подбор и адаптация персонала
+rukovoditelya,руководителя,Ведение переговоров
+rukovoditelya,руководителя,Тендеры
+rukovoditelya,руководителя,Управленческая отчётность
+rukovoditelya,руководителя,Power BI
+rukovoditelya,руководителя,Битрикс24
+rukovoditelya,руководителя,1С: УТ
+rukovoditelya,руководителя,Excel
+santehnika,сантехника,Монтаж систем водоснабжения
+santehnika,сантехника,Монтаж канализации
+santehnika,сантехника,Монтаж систем отопления
+santehnika,сантехника,Водяной тёплый пол
+santehnika,сантехника,Пайка полипропилена
+santehnika,сантехника,Металлопластик и пресс-фитинги
+santehnika,сантехника,Сшитый полиэтилен
+santehnika,сантехника,Работа со стальными трубами
+santehnika,сантехника,Опрессовка систем
+santehnika,сантехника,Прочистка канализации
+santehnika,сантехника,Замена стояков
+santehnika,сантехника,Установка счётчиков воды
+santehnika,сантехника,Установка бойлеров и водонагревателей
+santehnika,сантехника,Монтаж инсталляций
+santehnika,сантехника,Коллекторная разводка
+santehnika,сантехника,Ревизия запорной арматуры
+santehnika,сантехника,Чтение проектов и схем
+santehnika,сантехника,Удостоверение на работы на высоте
+sekretarya,секретаря,Делопроизводство
+sekretarya,секретаря,Документооборот
+sekretarya,секретаря,Деловая переписка
+sekretarya,секретаря,1С:Документооборот
+sekretarya,секретаря,Directum
+sekretarya,секретаря,СЭД «ДЕЛО»
+sekretarya,секретаря,Диадок
+sekretarya,секретаря,Управление календарём руководителя
+sekretarya,секретаря,Организация командировок
+sekretarya,секретаря,Протоколирование
+sekretarya,секретаря,Организация совещаний
+sekretarya,секретаря,"MS Office (Word, Excel, PowerPoint, Outlook)"
+sekretarya,секретаря,Google Документы
+sekretarya,секретаря,Работа с оргтехникой
+sekretarya,секретаря,Архивное дело
+sekretarya,секретаря,Английский язык
+sekretarya,секретаря,Скорость печати
+shvei,швеи,Прямострочная машина
+shvei,швеи,Оверлок
+shvei,швеи,Распошивальная машина
+shvei,швеи,Петельный полуавтомат
+shvei,швеи,Пуговичный полуавтомат
+shvei,швеи,Закрепочная машина
+shvei,швеи,Пошив изделия целиком
+shvei,швеи,Операции на потоке
+shvei,швеи,Трикотаж
+shvei,швеи,Джинсовые ткани
+shvei,швеи,Костюмные ткани
+shvei,швеи,Верхняя одежда
+shvei,швеи,Влажно-тепловая обработка
+shvei,швеи,Чтение технологической карты
+shvei,швеи,Работа по лекалам
+shvei,швеи,Ремонт и подгонка одежды
+shvei,швеи,Выполнение нормы выработки
+sidelki,сиделки,Уход за лежачими больными
+sidelki,сиделки,Профилактика пролежней
+sidelki,сиделки,Уход после инсульта
+sidelki,сиделки,Уход за людьми с деменцией
+sidelki,сиделки,Уход при болезни Паркинсона
+sidelki,сиделки,Гигиенические процедуры
+sidelki,сиделки,Смена подгузников и белья
+sidelki,сиделки,Кормление
+sidelki,сиделки,Контроль приёма лекарств
+sidelki,сиделки,"Измерение давления, пульса, сахара"
+sidelki,сиделки,Перемещение маломобильных людей
+sidelki,сиделки,ЛФК по рекомендации врача
+sidelki,сиделки,Диетическое питание
+sidelki,сиделки,Сопровождение на прогулки и к врачу
+sidelki,сиделки,Ведение дневника наблюдений
+sidelki,сиделки,Первая помощь
+sidelki,сиделки,Медицинская книжка
+sistemnogo-administratora,системного администратора,Windows Server
+sistemnogo-administratora,системного администратора,Active Directory
+sistemnogo-administratora,системного администратора,Групповые политики (GPO)
+sistemnogo-administratora,системного администратора,"Linux (Ubuntu, Debian, CentOS)"
+sistemnogo-administratora,системного администратора,"DNS, DHCP"
+sistemnogo-administratora,системного администратора,"TCP/IP, VLAN"
+sistemnogo-administratora,системного администратора,"VPN (IPsec, WireGuard, OpenVPN)"
+sistemnogo-administratora,системного администратора,MikroTik
+sistemnogo-administratora,системного администратора,Cisco
+sistemnogo-administratora,системного администратора,VMware vSphere
+sistemnogo-administratora,системного администратора,Proxmox
+sistemnogo-administratora,системного администратора,Hyper-V
+sistemnogo-administratora,системного администратора,Zabbix
+sistemnogo-administratora,системного администратора,Резервное копирование (Veeam)
+sistemnogo-administratora,системного администратора,Администрирование 1С
+sistemnogo-administratora,системного администратора,Exchange / почтовые серверы
+sistemnogo-administratora,системного администратора,PowerShell
+sistemnogo-administratora,системного администратора,Bash
+sistemnogo-administratora,системного администратора,Docker
+slesarya,слесаря,Ремонт промышленного оборудования
+slesarya,слесаря,Чтение чертежей
+slesarya,слесаря,Допуски и посадки
+slesarya,слесаря,ППР (планово-предупредительный ремонт)
+slesarya,слесаря,Гидравлика
+slesarya,слесаря,Пневматика
+slesarya,слесаря,"Редукторы, насосы, компрессоры"
+slesarya,слесаря,Замена подшипников и уплотнений
+slesarya,слесаря,Слесарная обработка
+slesarya,слесаря,Токарные работы
+slesarya,слесаря,Фрезерные работы
+slesarya,слесаря,"Штангенциркуль, микрометр, индикатор"
+slesarya,слесаря,Монтаж и пусконаладка
+slesarya,слесаря,Сварка (базовые навыки)
+slesarya,слесаря,Удостоверение стропальщика
+slesarya,слесаря,Группа по электробезопасности
+slesarya,слесаря,Допуск к работам на высоте
+smetchika,сметчика,Гранд-Смета
+smetchika,сметчика,Smeta.ru
+smetchika,сметчика,ФСНБ
+smetchika,сметчика,"ГЭСН, ФЕР, ТЕР"
+smetchika,сметчика,Базисно-индексный метод
+smetchika,сметчика,Ресурсно-индексный метод
+smetchika,сметчика,ФГИС ЦС
+smetchika,сметчика,Локальные и объектные сметы
+smetchika,сметчика,Сводный сметный расчёт
+smetchika,сметчика,"КС-2, КС-3"
+smetchika,сметчика,Ведомости объёмов работ
+smetchika,сметчика,Чтение проектной и рабочей документации
+smetchika,сметчика,AutoCAD
+smetchika,сметчика,Коммерческие сметы
+smetchika,сметчика,Проверка смет подрядчиков
+smetchika,сметчика,Сопровождение государственной экспертизы
+smetchika,сметчика,Excel
+smm-specialista,SMM-специалиста,SMM-стратегия
+smm-specialista,SMM-специалиста,Контент-план
+smm-specialista,SMM-специалиста,ВКонтакте
+smm-specialista,SMM-специалиста,Telegram
+smm-specialista,SMM-специалиста,Дзен
+smm-specialista,SMM-специалиста,VK Реклама
+smm-specialista,SMM-специалиста,Telegram Ads
+smm-specialista,SMM-специалиста,Таргетированная реклама
+smm-specialista,SMM-специалиста,Посевы в Telegram-каналах
+smm-specialista,SMM-специалиста,Работа с блогерами
+smm-specialista,SMM-специалиста,Маркировка рекламы (ОРД)
+smm-specialista,SMM-специалиста,Копирайтинг
+smm-specialista,SMM-специалиста,Мобильная съёмка
+smm-specialista,SMM-специалиста,Монтаж видео (CapCut)
+smm-specialista,SMM-специалиста,Figma
+smm-specialista,SMM-специалиста,"Аналитика соцсетей (LiveDune, TGStat)"
+smm-specialista,SMM-специалиста,Отложенный постинг (SMMplanner)
+smm-specialista,SMM-специалиста,Работа с негативом
+specialista-po-kadram,специалиста по кадрам,Кадровое делопроизводство
+specialista-po-kadram,специалиста по кадрам,1С: ЗУП 3.1
+specialista-po-kadram,специалиста по кадрам,1С: Документооборот
+specialista-po-kadram,специалиста по кадрам,Трудовое законодательство
+specialista-po-kadram,специалиста по кадрам,Трудовой кодекс РФ
+specialista-po-kadram,специалиста по кадрам,Электронные трудовые книжки
+specialista-po-kadram,специалиста по кадрам,КЭДО
+specialista-po-kadram,специалиста по кадрам,Отчётность в СФР
+specialista-po-kadram,специалиста по кадрам,Воинский учёт
+specialista-po-kadram,специалиста по кадрам,Штатное расписание
+specialista-po-kadram,специалиста по кадрам,Табель учёта рабочего времени
+specialista-po-kadram,специалиста по кадрам,График отпусков
+specialista-po-kadram,специалиста по кадрам,Локальные нормативные акты
+specialista-po-kadram,специалиста по кадрам,Оформление иностранных работников
+specialista-po-kadram,специалиста по кадрам,Архивное хранение документов
+specialista-po-kadram,специалиста по кадрам,Проверки трудовой инспекции
+specialista-po-kadram,специалиста по кадрам,Excel
+specialista-po-ohrane-truda,специалиста по охране труда,Система управления охраной труда
+specialista-po-ohrane-truda,специалиста по охране труда,СОУТ
+specialista-po-ohrane-truda,специалиста по охране труда,Оценка профессиональных рисков
+specialista-po-ohrane-truda,специалиста по охране труда,Инструктажи по охране труда
+specialista-po-ohrane-truda,специалиста по охране труда,Обучение по охране труда
+specialista-po-ohrane-truda,специалиста по охране труда,Разработка инструкций по охране труда
+specialista-po-ohrane-truda,специалиста по охране труда,Расследование несчастных случаев
+specialista-po-ohrane-truda,специалиста по охране труда,Обеспечение СИЗ
+specialista-po-ohrane-truda,специалиста по охране труда,Предварительные и периодические медосмотры
+specialista-po-ohrane-truda,специалиста по охране труда,Наряды-допуски
+specialista-po-ohrane-truda,специалиста по охране труда,Работы на высоте
+specialista-po-ohrane-truda,специалиста по охране труда,Пожарная безопасность
+specialista-po-ohrane-truda,специалиста по охране труда,Промышленная безопасность
+specialista-po-ohrane-truda,специалиста по охране труда,Работа с подрядчиками по охране труда
+specialista-po-ohrane-truda,специалиста по охране труда,Подготовка к проверкам инспекции труда
+specialista-po-ohrane-truda,специалиста по охране труда,ГОСТ Р ИСО 45001
+specialista-po-ohrane-truda,специалиста по охране труда,Учёт выдачи СИЗ в 1С
+specialista-po-ohrane-truda,специалиста по охране труда,Excel
+specialista-po-tenderam,специалиста по тендерам,44-ФЗ
+specialista-po-tenderam,специалиста по тендерам,223-ФЗ
+specialista-po-tenderam,специалиста по тендерам,Коммерческие закупки
+specialista-po-tenderam,специалиста по тендерам,ЕИС
+specialista-po-tenderam,специалиста по тендерам,Сбербанк-АСТ
+specialista-po-tenderam,специалиста по тендерам,РТС-тендер
+specialista-po-tenderam,специалиста по тендерам,Росэлторг
+specialista-po-tenderam,специалиста по тендерам,ЭТП ГПБ
+specialista-po-tenderam,специалиста по тендерам,B2B-Center
+specialista-po-tenderam,специалиста по тендерам,Подготовка тендерной документации
+specialista-po-tenderam,специалиста по тендерам,Расчёт НМЦК
+specialista-po-tenderam,специалиста по тендерам,Банковские гарантии
+specialista-po-tenderam,специалиста по тендерам,Обеспечение заявок и контрактов
+specialista-po-tenderam,специалиста по тендерам,Электронная подпись
+specialista-po-tenderam,специалиста по тендерам,Жалобы в ФАС
+specialista-po-tenderam,специалиста по тендерам,Контур.Закупки
+specialista-po-tenderam,специалиста по тендерам,Анализ конкурентов
+specialista-po-tenderam,специалиста по тендерам,Excel
+specialista-po-zakupkam,специалиста по закупкам,Закупки
+specialista-po-zakupkam,специалиста по закупкам,Тендеры
+specialista-po-zakupkam,специалиста по закупкам,44-ФЗ
+specialista-po-zakupkam,специалиста по закупкам,223-ФЗ
+specialista-po-zakupkam,специалиста по закупкам,ЕИС
+specialista-po-zakupkam,специалиста по закупкам,Электронные торговые площадки
+specialista-po-zakupkam,специалиста по закупкам,Обоснование НМЦК
+specialista-po-zakupkam,специалиста по закупкам,Анализ рынка поставщиков
+specialista-po-zakupkam,специалиста по закупкам,Ведение переговоров
+specialista-po-zakupkam,специалиста по закупкам,Планирование закупок
+specialista-po-zakupkam,специалиста по закупкам,Управление запасами
+specialista-po-zakupkam,специалиста по закупкам,1С: ERP
+specialista-po-zakupkam,специалиста по закупкам,1С: Управление торговлей
+specialista-po-zakupkam,специалиста по закупкам,SAP
+specialista-po-zakupkam,специалиста по закупкам,Договорная работа
+specialista-po-zakupkam,специалиста по закупкам,Претензионная работа
+specialista-po-zakupkam,специалиста по закупкам,ВЭД
+specialista-po-zakupkam,специалиста по закупкам,"Excel (ВПР, сводные таблицы)"
+supervayzera,супервайзера,Управление командой продаж
+supervayzera,супервайзера,Постановка и контроль KPI
+supervayzera,супервайзера,Численная и взвешенная дистрибуция
+supervayzera,супервайзера,Активная клиентская база (АКБ)
+supervayzera,супервайзера,Совместные визиты
+supervayzera,супервайзера,Планирование и оптимизация маршрутов
+supervayzera,супервайзера,Ассортиментная матрица
+supervayzera,супервайзера,Работа с дебиторской задолженностью
+supervayzera,супервайзера,Переговоры с локальными сетями
+supervayzera,супервайзера,Проведение промо-акций
+supervayzera,супервайзера,1С: Управление торговлей
+supervayzera,супервайзера,CRM-система
+supervayzera,супервайзера,"Excel (сводные таблицы, ВПР)"
+supervayzera,супервайзера,Power BI
+supervayzera,супервайзера,Обучение и адаптация персонала
+supervayzera,супервайзера,Подбор торговых представителей
+supervayzera,супервайзера,Права категории B
+svarshchika,сварщика,РД (ручная дуговая сварка)
+svarshchika,сварщика,РАД (ручная аргонодуговая сварка)
+svarshchika,сварщика,МП (механизированная сварка полуавтоматом)
+svarshchika,сварщика,АФ (автоматическая сварка под флюсом)
+svarshchika,сварщика,Аттестация НАКС
+svarshchika,сварщика,Газовая сварка
+svarshchika,сварщика,Сварка трубопроводов
+svarshchika,сварщика,Сварка металлоконструкций
+svarshchika,сварщика,Сварка нержавеющей стали
+svarshchika,сварщика,Сварка алюминия
+svarshchika,сварщика,Все пространственные положения
+svarshchika,сварщика,Неповоротные стыки
+svarshchika,сварщика,Чтение чертежей
+svarshchika,сварщика,Газовая резка
+svarshchika,сварщика,Плазменная резка
+svarshchika,сварщика,Работа на высоте
+svarshchika,сварщика,Удостоверение стропальщика
+tehnologa,технолога,Разработка рецептур
+tehnologa,технолога,Технико-технологические карты
+tehnologa,технолога,Технологические инструкции
+tehnologa,технолога,ТУ и ГОСТ
+tehnologa,технолога,ХАССП
+tehnologa,технолога,ISO 22000
+tehnologa,технолога,Входной контроль сырья
+tehnologa,технолога,Расчёт себестоимости
+tehnologa,технолога,Запуск новых продуктов
+tehnologa,технолога,1С: ERP
+tehnologa,технолога,Разработка техпроцессов
+tehnologa,технолога,ЕСТД
+tehnologa,технолога,КОМПАС-3D
+tehnologa,технолога,ВЕРТИКАЛЬ
+tehnologa,технолога,AutoCAD
+tehnologa,технолога,Нормирование
+tehnologa,технолога,Бережливое производство
+tehnologa,технолога,Анализ брака
+testirovshchika,тестировщика,Ручное тестирование
+testirovshchika,тестировщика,Функциональное тестирование
+testirovshchika,тестировщика,Регрессионное тестирование
+testirovshchika,тестировщика,Тестирование API
+testirovshchika,тестировщика,Тест-дизайн
+testirovshchika,тестировщика,Тест-кейсы и чек-листы
+testirovshchika,тестировщика,Jira
+testirovshchika,тестировщика,TestRail
+testirovshchika,тестировщика,Qase
+testirovshchika,тестировщика,Postman
+testirovshchika,тестировщика,SQL
+testirovshchika,тестировщика,Chrome DevTools
+testirovshchika,тестировщика,Charles / Fiddler
+testirovshchika,тестировщика,Git
+testirovshchika,тестировщика,Python + pytest
+testirovshchika,тестировщика,Selenium / Playwright
+testirovshchika,тестировщика,Allure
+testirovshchika,тестировщика,"CI/CD (GitLab CI, Jenkins)"
+testirovshchika,тестировщика,Тестирование мобильных приложений
+testirovshchika,тестировщика,Kibana
+tokarya,токаря,Токарь 3–6 разряда
+tokarya,токаря,Токарь-универсал
+tokarya,токаря,"Токарные станки 16К20, 1К62"
+tokarya,токаря,Станки с ЧПУ
+tokarya,токаря,Стойка Fanuc
+tokarya,токаря,Стойка Siemens Sinumerik
+tokarya,токаря,Программирование в G-кодах
+tokarya,токаря,Наладка токарного станка
+tokarya,токаря,Чтение чертежей (ЕСКД)
+tokarya,токаря,Квалитеты точности и шероховатость
+tokarya,токаря,Нарезание резьбы
+tokarya,токаря,"Штангенциркуль, микрометр, нутромер"
+tokarya,токаря,Обработка нержавеющей стали
+tokarya,токаря,Обработка цветных металлов
+tokarya,токаря,Заточка инструмента
+tokarya,токаря,Расточные работы
+torgovogo-predstavitelya,торгового представителя,Активные продажи
+torgovogo-predstavitelya,торгового представителя,Работа с территорией
+torgovogo-predstavitelya,торгового представителя,Развитие клиентской базы
+torgovogo-predstavitelya,торгового представителя,Нумерическая дистрибуция
+torgovogo-predstavitelya,торгового представителя,Ассортиментная матрица
+torgovogo-predstavitelya,торгового представителя,Мерчандайзинг
+torgovogo-predstavitelya,торгового представителя,Планограммы
+torgovogo-predstavitelya,торгового представителя,POSM
+torgovogo-predstavitelya,торгового представителя,Контроль дебиторской задолженности
+torgovogo-predstavitelya,торгового представителя,Проведение промоакций
+torgovogo-predstavitelya,торгового представителя,"Мобильная торговля (Агент Плюс, Моби-С)"
+torgovogo-predstavitelya,торгового представителя,1С: Управление торговлей
+torgovogo-predstavitelya,торгового представителя,Традиционная розница
+torgovogo-predstavitelya,торгового представителя,HoReCa
+torgovogo-predstavitelya,торгового представителя,Работа с сетями
+torgovogo-predstavitelya,торгового представителя,Excel
+torgovogo-predstavitelya,торгового представителя,Водительские права категории B
+torgovogo-predstavitelya,торгового представителя,Личный автомобиль
+uborshchicy,уборщицы,Влажная уборка
+uborshchicy,уборщицы,Уборка офисных помещений
+uborshchicy,уборщицы,Уборка торговых помещений
+uborshchicy,уборщицы,Генеральная уборка
+uborshchicy,уборщицы,Уборка после ремонта
+uborshchicy,уборщицы,Поломоечная машина
+uborshchicy,уборщицы,Роторная машина
+uborshchicy,уборщицы,Пылесос для ковровых покрытий
+uborshchicy,уборщицы,Профессиональная химия
+uborshchicy,уборщицы,Разведение концентратов
+uborshchicy,уборщицы,Уход за разными напольными покрытиями
+uborshchicy,уборщицы,Мытьё окон
+uborshchicy,уборщицы,Дезинфекция поверхностей
+uborshchicy,уборщицы,Уборка санузлов
+uborshchicy,уборщицы,Сортировка отходов
+uborshchicy,уборщицы,Чек-листы уборки
+uborshchicy,уборщицы,Медицинская книжка
+uchitelya,учителя,ФГОС НОО
+uchitelya,учителя,ФГОС ООО и СОО
+uchitelya,учителя,Рабочие программы
+uchitelya,учителя,УМК «Школа России»
+uchitelya,учителя,Подготовка к ВПР
+uchitelya,учителя,Подготовка к ОГЭ и ЕГЭ
+uchitelya,учителя,Олимпиадная подготовка
+uchitelya,учителя,Классное руководство
+uchitelya,учителя,Электронный журнал
+uchitelya,учителя,Проектная деятельность
+uchitelya,учителя,Инклюзивное образование
+uchitelya,учителя,Работа с детьми с ОВЗ
+uchitelya,учителя,Интерактивная доска
+uchitelya,учителя,Платформы для онлайн-уроков
+uchitelya,учителя,Работа с родителями
+uchitelya,учителя,Внеурочная деятельность
+veterinara,ветеринарного врача,Терапия мелких домашних животных
+veterinara,ветеринарного врача,Экзотические животные
+veterinara,ветеринарного врача,Клинический осмотр
+veterinara,ветеринарного врача,УЗИ брюшной полости
+veterinara,ветеринарного врача,Рентгенография
+veterinara,ветеринарного врача,Интерпретация анализов крови
+veterinara,ветеринарного врача,Плановая хирургия
+veterinara,ветеринарного врача,Ингаляционная анестезия
+veterinara,ветеринарного врача,Мониторинг анестезии
+veterinara,ветеринарного врача,Интенсивная терапия
+veterinara,ветеринарного врача,Внутривенный катетер
+veterinara,ветеринарного врача,Вакцинация и чипирование
+veterinara,ветеринарного врача,Оформление ветеринарных паспортов
+veterinara,ветеринарного врача,VetManager
+veterinara,ветеринарного врача,ФГИС «ВетИС» (Меркурий)
+veterinara,ветеринарного врача,Ветеринарно-санитарная экспертиза
+voditelya,водителя,Категория B
+voditelya,водителя,Категория C
+voditelya,водителя,Категория CE
+voditelya,водителя,Категория D
+voditelya,водителя,Карта водителя (тахограф)
+voditelya,водителя,Свидетельство ДОПОГ
+voditelya,водителя,Медкнижка
+voditelya,водителя,Путевые листы
+voditelya,водителя,ТТН и накладные
+voditelya,водителя,Экспедирование
+voditelya,водителя,Знание города и области
+voditelya,водителя,Междугородние перевозки
+voditelya,водителя,Работа с навигатором
+voditelya,водителя,Работа с терминалом оплаты
+voditelya,водителя,Мелкий ремонт автомобиля
+voditelya,водителя,Погрузка и крепление груза
+vospitatelya,воспитателя детского сада,ФГОС ДО
+vospitatelya,воспитателя детского сада,ФОП ДО
+vospitatelya,воспитателя детского сада,Планирование образовательной деятельности
+vospitatelya,воспитателя детского сада,Календарно-тематическое планирование
+vospitatelya,воспитателя детского сада,Конспекты занятий
+vospitatelya,воспитателя детского сада,Педагогическая диагностика
+vospitatelya,воспитателя детского сада,Адаптация детей
+vospitatelya,воспитателя детского сада,Развивающая предметно-пространственная среда
+vospitatelya,воспитателя детского сада,Проектная деятельность
+vospitatelya,воспитателя детского сада,Развитие речи
+vospitatelya,воспитателя детского сада,Сенсорное развитие
+vospitatelya,воспитателя детского сада,Работа с родителями
+vospitatelya,воспитателя детского сада,Организация праздников
+vospitatelya,воспитателя детского сада,Подвижные игры
+vospitatelya,воспитателя детского сада,Оказание первой помощи
+vospitatelya,воспитателя детского сада,Медицинская книжка
+vospitatelya,воспитателя детского сада,Справка об отсутствии судимости
+vracha,врача,Амбулаторный приём
+vracha,врача,Ведение пациентов в стационаре
+vracha,врача,Клинические рекомендации
+vracha,врача,Диспансеризация и профосмотры
+vracha,врача,Диспансерное наблюдение
+vracha,врача,Экспертиза временной нетрудоспособности
+vracha,врача,Электронные больничные
+vracha,врача,Оформление направлений на МСЭ
+vracha,врача,ЭКГ (расшифровка)
+vracha,врача,УЗИ
+vracha,врача,Интерпретация лабораторных исследований
+vracha,врача,МИС
+vracha,врача,Электронные рецепты
+vracha,врача,Работа по ОМС и ДМС
+vracha,врача,Неотложная помощь
+vracha,врача,Медицинская документация
+yurista,юриста,Договорная работа
+yurista,юриста,Претензионная работа
+yurista,юриста,Арбитражный процесс
+yurista,юриста,Гражданский процесс
+yurista,юриста,Корпоративное право
+yurista,юриста,Трудовое право
+yurista,юриста,Банкротство
+yurista,юриста,Исполнительное производство
+yurista,юриста,ГК РФ
+yurista,юриста,АПК РФ
+yurista,юриста,ГПК РФ
+yurista,юриста,"223-ФЗ, 44-ФЗ"
+yurista,юриста,КонсультантПлюс
+yurista,юриста,Гарант
+yurista,юриста,Мой арбитр
+yurista,юриста,Правовая экспертиза документов
+yurista,юриста,Персональные данные (152-ФЗ)
+yurista,юриста,Английский язык (юридический)
+zhurnalista,журналиста,Подготовка новостей
+zhurnalista,журналиста,Лонгриды
+zhurnalista,журналиста,Репортаж
+zhurnalista,журналиста,Интервью
+zhurnalista,журналиста,Фактчекинг
+zhurnalista,журналиста,Работа с источниками
+zhurnalista,журналиста,Редактура и корректура
+zhurnalista,журналиста,Рерайтинг
+zhurnalista,журналиста,Деловая журналистика
+zhurnalista,журналиста,Data-журналистика
+zhurnalista,журналиста,SEO-оптимизация текстов
+zhurnalista,журналиста,WordPress
+zhurnalista,журналиста,Tilda
+zhurnalista,журналиста,Telegram-каналы
+zhurnalista,журналиста,Ведение соцсетей
+zhurnalista,журналиста,Яндекс Метрика
+zhurnalista,журналиста,Видеосъёмка и монтаж
+zhurnalista,журналиста,Работа с документами и базами данных
